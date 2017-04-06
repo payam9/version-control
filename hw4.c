@@ -23,11 +23,7 @@ int studArray[NUM_OF_STUDENTS];
 int main ( int argc, const char *argv[] ){
   printf("CS149 SleepingTA from Payam Khosravi\n");
   waiting_student = 0;
-  ffff
-    ffff
-    ffff
-    ewwew
-    
+  
 
 
 
